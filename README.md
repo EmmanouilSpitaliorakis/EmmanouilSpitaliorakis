@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmanouilSpitaliorakis
 - 👀 I’m interested in Data Analytics, Data Science, Computer Vision and Machine Learning
 - 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything back-end
 - 📫 How to reach me LinkedIn, and via email on emm.spitali@gmail.com
 
 <!---
