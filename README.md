@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanouilSpitaliorakis
-- 👀 I’m interested in Data Analytics, Data Science, Computer Vision and Machine Learning
-- 🌱 I’m currently learning Go and Javascript
+- 👀 I’m interested in Data Analytics and Software Development.
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything back-end
 - 📫 How to reach me LinkedIn, and via email on emm.spitali@gmail.com
 
